@@ -1,9 +1,9 @@
 import React from "react";
 
-function AddTransactionForm() {
+function AddTransactionForm({AddFunction}) {
   return (
     <div className="ui segment">
-      <form className="ui form">
+      <form className="ui form" onSubmit={AddFunction}>
         <div className="inline fields">
           <input type="date" name="date" />
           <input type="text" name="description" placeholder="Description" />
