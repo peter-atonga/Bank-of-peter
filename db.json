@@ -104,6 +104,20 @@
       "description": "Car Maintenance",
       "category": "Motor Vehicle",
       "amount": "15000"
+    },
+    {
+      "id": 16,
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": ""
+    },
+    {
+      "id": 17,
+      "date": "2024-08-15",
+      "description": "utawala",
+      "category": "job",
+      "amount": "3456"
     }
   ]
 }
